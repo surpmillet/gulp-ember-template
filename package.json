@@ -1,0 +1,25 @@
+{
+  "name": "gulp-ember-template",
+  "version": "1.0.0",
+  "description": "a gulp plugin that precompiling templates for Ember.js",
+  "main": "index.js",
+  "author": "surpmillet",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/surpmillet/gulp-ember-template.git"
+  },
+  "keywords": [
+    "ember",
+    "gulp",
+    "template",
+    "handlebars",
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.3",
+    "fs": "^0.0.2",
+    "path": "^0.11.14",
+    "through2": "^0.6.3"
+  }
+}

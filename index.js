@@ -1,7 +1,6 @@
 /**
- * Created by she on 2015/2/12.
+ * Created by surpmillet on 2015/2/12.
  */
-// through2 is a thin wrapper around node transform streams
 var through = require('through2');
 var PluginError = require('gulp-util').PluginError;
 var path = require('path');
